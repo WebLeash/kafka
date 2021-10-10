@@ -1,4 +1,6 @@
 # Introduction to Kafka
+## This project was courtesy of Marcel Dempers "That DevOps Guy" 
+## One of the best tutorials!!
 
 Official [Docs](https://kafka.apache.org/)
 
